@@ -1,5 +1,5 @@
-# tailwindcss-container
-tailwindcss container ayaları
+# tailwindcss-container-screens
+tailwindcss container - screens setting
 
 
 ```js 
