@@ -18,12 +18,12 @@ module.exports = {
   		}
   	},
   	screens: {
-  		xs: '350',
+  		xs: '350px',
   		sm: '576px',
   		md: '768px',
   		lg: '992px',
   		xl: '1280px',
-  		'2xl': '1440px'
+  		'2xl': '1320px'
   	}, 
   },
    ...
